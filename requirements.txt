@@ -1,0 +1,6 @@
+numpy
+torch==2.8.0
+pettingzoo
+gymnasium
+
+
